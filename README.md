@@ -1,3 +1,5 @@
+Приложение на Vue 3 с использованием Webpack
+
 # vue-product-list
 
 ## Project setup
